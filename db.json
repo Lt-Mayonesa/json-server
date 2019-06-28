@@ -4,5 +4,22 @@
       "id": 1,
       "firstName": "Raul"
     }
+  ],
+  "transactions": [
+    {
+      "user": "carlitos",
+      "description": "caramelos",
+      "amount": 100.00
+    },
+    {
+      "user": "carlitos",
+      "description": "caramelos",
+      "amount": 100.00
+    },
+    {
+      "user": "carlitos",
+      "description": "caramelos",
+      "amount": 100.00
+    }
   ]
 }
