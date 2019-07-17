@@ -7,19 +7,22 @@
   ],
   "transactions": [
     {
+      "id": 1,
       "user": "carlitos",
       "description": "caramelos",
       "amount": 100.00
     },
     {
-      "user": "carlitos",
+      "id": 2,
+      "user": "raul",
       "description": "caramelos",
-      "amount": 100.00
+      "amount": 123.00
     },
     {
-      "user": "carlitos",
+      "id": 3,
+      "user": "paula",
       "description": "caramelos",
-      "amount": 100.00
+      "amount": 500.21
     }
   ]
 }
