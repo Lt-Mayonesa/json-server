@@ -23,6 +23,12 @@
       "user": "paula",
       "description": "caramelos",
       "amount": 500.21
+    },
+    {
+      "id": 4,
+      "user": "Carlitos",
+      "description": "más caramelos",
+      "amount": 1000.51    
     }
   ]
 }
